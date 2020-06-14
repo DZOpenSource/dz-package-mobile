@@ -5,7 +5,7 @@
 
 **Hybrid mobile application.**
 
-  
+[![Build Status](https://travis-ci.com/DZOpenSource/dz-package-mobile.svg?branch=master)](https://travis-ci.com/DZOpenSource/dz-package-mobile.svg?branch=master)
 
 ## Development
 
